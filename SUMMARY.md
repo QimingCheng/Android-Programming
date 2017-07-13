@@ -10,4 +10,5 @@
 * [Adding a UI Fragment to the FragmentManager                              ](adding-a-ui-fragment-to-the-fragmentmanager.md)
 * [Application Architecture with Fragments](application-architecture-with-fragments.md)
 * [Fragments and the Support Library](fragments-and-the-support-library.md)
+* [Why Support Fragments Are Superior](why-support-fragments-are-superior.md)
 
