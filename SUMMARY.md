@@ -10,5 +10,7 @@
 * [Creating a UI Fragment](creating-a-ui-fragment.md)
 * [Adding a UI Fragment to the FragmentManager](adding-a-ui-fragment-to-the-fragmentmanager.md)
 * [Application Architecture with Fragments](application-architecture-with-fragments.md)
-
+* [8  Displaying Lists with RecyclerView](8-displaying-lists-with-recyclerview.md)
+* [An Abstract Activity for Hosting a Fragment](an-abstract-activity-for-hosting-a-fragment.md)
+* [RecyclerView, Adapter, and ViewHolder](recyclerview-adapter-and-viewholder.md)
 
