@@ -13,4 +13,6 @@
 * [8  Displaying Lists with RecyclerView](8-displaying-lists-with-recyclerview.md)
 * [An Abstract Activity for Hosting a Fragment](an-abstract-activity-for-hosting-a-fragment.md)
 * [RecyclerView, Adapter, and ViewHolder](recyclerview-adapter-and-viewholder.md)
+* [Binding List Items](binding-list-items.md)
+* [Responding to Presses](responding-to-presses.md)
 
