@@ -15,4 +15,7 @@
 * [RecyclerView, Adapter, and ViewHolder](recyclerview-adapter-and-viewholder.md)
 * [Binding List Items](binding-list-items.md)
 * [Responding to Presses](responding-to-presses.md)
+* [ListView and GridView](listview-and-gridview.md)
+* [Singletons](singletons.md)
+* [Challenge: RecyclerView ViewTypes](challenge-recyclerview-viewtypes.md)
 
