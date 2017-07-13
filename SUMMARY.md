@@ -8,4 +8,6 @@
 * [Hosting a UI Fragment](hosting-a-ui-fragment.md)
 * [Creating a UI Fragment](creating-a-ui-fragment.md)
 * [Adding a UI Fragment to the FragmentManager                              ](adding-a-ui-fragment-to-the-fragmentmanager.md)
+* [Application Architecture with Fragments](application-architecture-with-fragments.md)
+* [Fragments and the Support Library](fragments-and-the-support-library.md)
 
