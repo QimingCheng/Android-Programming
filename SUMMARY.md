@@ -1,9 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [1  Your First Android Application](1-your-first-android-application.md)
-* [7  UI Fragments and the Fragment Manager](7-ui-fragments-and-the-fragment-manager.md)
+* [Introduction](books/Big_Nerd_Ranch_3rd_2017/README.md)
+* [First Chapter](books/Big_Nerd_Ranch_3rd_2017/chapter1.md)
+* [1  Your First Android Application](books/Big_Nerd_Ranch_3rd_2017/1-your-first-android-application.md)
+* [7  UI Fragments and the Fragment Manager](books/Big_Nerd_Ranch_3rd_2017/7-ui-fragments-and-the-fragment-manager.md)
 * [Introducing Fragments](introducing-fragments.md)
 * [Starting CriminalIntent](starting-criminalintent.md)
 * [Hosting a UI Fragment](hosting-a-ui-fragment.md)
