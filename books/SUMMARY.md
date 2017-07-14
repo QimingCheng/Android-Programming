@@ -1,8 +1,6 @@
 # Summary
 
-* [Introduction](Big_Nerd_Ranch_3rd_2017/README.md)
-* [Introduction](Big_Nerd_Ranch_3rd_2017/README.md)
-* [First Chapter](Big_Nerd_Ranch_3rd_2017/chapter1.md)
+* [Introduction](README.md)
 * [1  Your First Android Application](books/Big_Nerd_Ranch_3rd_2017/1-your-first-android-application.md)
 * [7.UI Fragments and the Fragment Manager](Big_Nerd_Ranch_3rd_2017/7-ui-fragments-and-the-fragment-manager.md)
 * [7.1 Introducing Fragments](Big_Nerd_Ranch_3rd_2017/introducing-fragments.md)
@@ -19,3 +17,4 @@
 * [8.5 ListView and GridView](Big_Nerd_Ranch_3rd_2017/listview-and-gridview.md)
 * [8.6 Singletons](Big_Nerd_Ranch_3rd_2017/singletons.md)
 * [8.7 Challenge: RecyclerView ViewTypes](Big_Nerd_Ranch_3rd_2017/challenge-recyclerview-viewtypes.md)
+
